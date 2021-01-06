@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 requests
-BeautifulSoup
+bs4
+time

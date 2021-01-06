@@ -3,7 +3,7 @@ import logging
 import requests as req
 from bs4 import BeautifulSoup as bs
 import time
-import constants, os, re
+
 import telebot
 from telebot import types
 
